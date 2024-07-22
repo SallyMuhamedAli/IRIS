@@ -1,4 +1,4 @@
- This is a great project using the famous Iris flower data to analyze the types of diseases it faces. Let's review the main steps have taken in this project:
+ This is a project using the famous Iris flower data to analyze the types of diseases it faces. Let's review the main steps have taken in this project:
  -[ Environment Setup](#EnvironmentSetup)
  -[Data Loading and Analysis](#DataLoadingandAnalysis)
  -[Model Building](#ModelBuilding)
